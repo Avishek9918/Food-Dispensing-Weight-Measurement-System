@@ -1,0 +1,107 @@
+Info: Processing symbol 'A1:Module:Arduino_Nano'.
+Info: Processing symbol 'C1:'.
+Info: Processing symbol 'C2:'.
+Info: Processing symbol 'J1:'.
+Info: Processing symbol 'U1:Package_SO:SOIC-16_3.9x9.9mm_P1.27mm'.
+Updated A1 fields.
+Updated A1 sheetname to '/'.
+Updated A1 sheetfile to 'item dispenser.kicad_sch'.
+Updated A1 footprint filters to 'Arduino*Nano*'.
+Add net unconnected-(A1-SDA/A4-Pad23).
+Connected A1 pin 23 to unconnected-(A1-SDA/A4-Pad23).
+Add net /SCK.
+Connected A1 pin 5 to /SCK.
+Add net unconnected-(A1-D1/TX-Pad1).
+Connected A1 pin 1 to unconnected-(A1-D1/TX-Pad1).
+Add net /DT.
+Connected A1 pin 6 to /DT.
+Add net +5V.
+Connected A1 pin 4 to +5V.
+Add net unconnected-(A1-A6-Pad25).
+Connected A1 pin 25 to unconnected-(A1-A6-Pad25).
+Add net Net-(A1-VUSB/5V).
+Connected A1 pin 27 to Net-(A1-VUSB/5V).
+Add net unconnected-(A1-A1-Pad20).
+Connected A1 pin 20 to unconnected-(A1-A1-Pad20).
+Add net unconnected-(A1-D9-Pad12).
+Connected A1 pin 12 to unconnected-(A1-D9-Pad12).
+Add net unconnected-(A1-D4-Pad7).
+Connected A1 pin 7 to unconnected-(A1-D4-Pad7).
+Add net unconnected-(A1-D7-Pad10).
+Connected A1 pin 10 to unconnected-(A1-D7-Pad10).
+Add net unconnected-(A1-3V3-Pad17).
+Connected A1 pin 17 to unconnected-(A1-3V3-Pad17).
+Add net unconnected-(A1-A0-Pad19).
+Connected A1 pin 19 to unconnected-(A1-A0-Pad19).
+Add net unconnected-(A1-~{RESET}-Pad3).
+Connected A1 pin 3 to unconnected-(A1-~{RESET}-Pad3).
+Add net unconnected-(A1-D0/RX-Pad2).
+Connected A1 pin 2 to unconnected-(A1-D0/RX-Pad2).
+Add net unconnected-(A1-D10/CS-Pad13).
+Connected A1 pin 13 to unconnected-(A1-D10/CS-Pad13).
+Add net unconnected-(A1-B1-Pad28).
+Connected A1 pin 28 to unconnected-(A1-B1-Pad28).
+Add net unconnected-(A1-D11/COPI-Pad14).
+Connected A1 pin 14 to unconnected-(A1-D11/COPI-Pad14).
+Add net unconnected-(A1-A2-Pad21).
+Connected A1 pin 21 to unconnected-(A1-A2-Pad21).
+Connected A1 pin 29 to +5V.
+Add net unconnected-(A1-D6-Pad9).
+Connected A1 pin 9 to unconnected-(A1-D6-Pad9).
+Add net unconnected-(A1-A7-Pad26).
+Connected A1 pin 26 to unconnected-(A1-A7-Pad26).
+Connected A1 pin 30 to +5V.
+Add net unconnected-(A1-A3-Pad22).
+Connected A1 pin 22 to unconnected-(A1-A3-Pad22).
+Add net unconnected-(A1-D12/CIPO-Pad15).
+Connected A1 pin 15 to unconnected-(A1-D12/CIPO-Pad15).
+Add net unconnected-(A1-D8-Pad11).
+Connected A1 pin 11 to unconnected-(A1-D8-Pad11).
+Add net unconnected-(A1-D13/SCK-Pad16).
+Connected A1 pin 16 to unconnected-(A1-D13/SCK-Pad16).
+Add net unconnected-(A1-SCL/A5-Pad24).
+Connected A1 pin 24 to unconnected-(A1-SCL/A5-Pad24).
+Add net unconnected-(A1-D5-Pad8).
+Connected A1 pin 8 to unconnected-(A1-D5-Pad8).
+Add net unconnected-(A1-B0-Pad18).
+Connected A1 pin 18 to unconnected-(A1-B0-Pad18).
+Updated A1 unit metadata.
+Added A1 (footprint 'Module:Arduino_Nano').
+Changed REF** reference designator to A1.
+Changed A1 value from Arduino_Nano to Arduino_Nano_ESP32.
+Updated A1 symbol association from  to /16498ea0-17d6-4d1c-b6ce-2c3011440a5c.
+Added U1 (footprint 'Package_SO:SOIC-16_3.9x9.9mm_P1.27mm').
+Changed REF** reference designator to U1.
+Changed U1 value from SOIC-16_3.9x9.9mm_P1.27mm to HX711.
+Updated U1 symbol association from  to /2a72a582-73e9-4823-b2f4-c50ebd2f06bf.
+Updated U1 fields.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'item dispenser.kicad_sch'.
+Updated U1 footprint filters to '*SO*3.9x9.9mm*P1.27mm*'.
+Add net Net-(U1-XI).
+Connected U1 pin 13 to Net-(U1-XI).
+Connected U1 pin 14 to Net-(U1-XI).
+Connected U1 pin 11 to /SCK.
+Connected U1 pin 12 to /DT.
+Connected U1 pin 5 to +5V.
+Connected U1 pin 15 to +5V.
+Add net unconnected-(U1-INB+-Pad10).
+Connected U1 pin 10 to unconnected-(U1-INB+-Pad10).
+Add net unconnected-(U1-BASE-Pad2).
+Connected U1 pin 2 to unconnected-(U1-BASE-Pad2).
+Connected U1 pin 3 to +5V.
+Add net /E-.
+Connected U1 pin 7 to /E-.
+Connected U1 pin 4 to +5V.
+Connected U1 pin 16 to Net-(A1-VUSB/5V).
+Add net /E+.
+Connected U1 pin 8 to /E+.
+Add net unconnected-(U1-VBG-Pad6).
+Connected U1 pin 6 to unconnected-(U1-VBG-Pad6).
+Connected U1 pin 1 to Net-(A1-VUSB/5V).
+Add net unconnected-(U1-INB--Pad9).
+Connected U1 pin 9 to unconnected-(U1-INB--Pad9).
+Updated U1 unit metadata.
+
+
+Info: Total warnings: 0, errors: 0.
